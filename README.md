@@ -12,7 +12,7 @@
 
 > **Project Status:** Design Finished <br>
 > **CAD Platform:** Autodesk Fusion 360 🅰️ <br>
-> **Development Pipeline:** [Hackclub Macondo](https://macondo.hackclub.com/projects/5946) <br>  
+> **Development Pipeline:** [Hackclub Macondo](https://macondo.hackclub.com/projects/5946)  
 > **Design Time Investment:** ~3hr ⏱ <br>
 > **Source CAD File:** [💾 Autodesk Fusion Editor file]() 
 
