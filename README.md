@@ -11,22 +11,27 @@
 <br>
 
 > **Project Status:** Design Finished <br>
-> **CAD Platform:** Autodesk Fusion 360  
+> **CAD Platform:** Autodesk Fusion 360 🅰️
 > **Development Pipeline:** [Hackclub Macondo](https://macondo.hackclub.com/projects/5946)  
-> **Design Time Investment:** ~3hr  
+> **Design Time Investment:** ~3hr ⏱
 > **Source CAD File:** [💾 Autodesk Fusion Editor file]() 
 
 ---
 
-## Intro
+## Intro 
 This 3d model is a small scale ~12cm long replica of the Soviet union's abandoned project <b>Su-60 Cobra Raven 2</b>
 
-## Visual Looks
+## Visual Looks 🖼
 <img width="1366" height="538" alt="COBRA (v3~recovered)" src="https://github.com/user-attachments/assets/efbc4fb4-fa61-47ee-8e8f-0e0a92225600" />
-
-## Print Material
+ 
+## Print Material 🖨️
 This 3d model can be printed in all types of Filaments, <br>
 <b>Recommended Filament:-</b> 
 - PLA
 
-## Assembly-guide
+## Assembly-guide 🧰⚙
+
+
+## Credits 💼
+
+## License 🔐
