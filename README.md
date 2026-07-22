@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#Intro">A short Intro</a> •
   <a href="#visual-looks">Visual Looks</a> •
-  <a href="#Print-Material">Materials</a> •
+  <a href="#3d-printing">3d-Printing</a> •
   <a href="#assembly-guide">Assembly</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
@@ -24,14 +24,23 @@ This 3d model is a small scale ~12cm long replica of the Soviet union's abandone
 ## Visual Looks 🖼
 <img width="1366" height="538" alt="COBRA (v3~recovered)" src="https://github.com/user-attachments/assets/efbc4fb4-fa61-47ee-8e8f-0e0a92225600" />
  
-## Print Material 🖨️
+## 3d-Printing 🖨️
+The Stl, Step, 3mf files are provided in <a href="">Print files</a> <br>
+And Also can be accessed here on <a href="">Printables</a>
 This 3d model can be printed in all types of Filaments, <br>
 <b>Recommended Filament:-</b> 
 - PLA
 
 ## Assembly-guide 🧰⚙
+The Assembling process of this 3d model is quite easy and less time consuming, <br>
+Follow the steps if you get stuck anywhere.
+
 
 
 ## Credits 💼
+The Credit goes to one of friends for recommending this to make as the next CAD project, <br>
+And eventually My own handy hands.
 
 ## License 🔐
+This project is totally open-source, <br>
+Any changes or improves are praised.
