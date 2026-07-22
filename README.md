@@ -22,7 +22,10 @@
 This 3d model is a small scale ~12cm long replica of the Soviet union's abandoned project <b>Su-60 Cobra Raven 2</b>
 
 ## Visual Looks 🖼
-<img width="1366" height="538" alt="COBRA (v3~recovered)" src="https://github.com/user-attachments/assets/efbc4fb4-fa61-47ee-8e8f-0e0a92225600" />
+<img width="1366" height="538" alt="dsd" src="https://github.com/user-attachments/assets/3af325b8-d02a-470b-9138-93b2cbad3fa6" />
+<img width="1366" height="538" alt="fdg" src="https://github.com/user-attachments/assets/20da4355-ef6b-48fb-a6e5-090e3a18c8c4" />
+<img width="1366" height="538" alt="COBRA (v3~recovered)" src="https://github.com/user-attachments/assets/2cd8b752-df26-491b-a350-bbdfd18cdc22" />
+
  
 ## 3d-Printing 🖨️
 The Stl, Step, 3mf files are provided in <a href="">Print files</a> <br>
