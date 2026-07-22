@@ -10,3 +10,10 @@
 </p>
 <br>
 
+> **Project Status:** Design Finished <br>
+> **CAD Platform:** Autodesk Fusion 360  
+> **Development Pipeline:** [Hackclub Macondo](https://macondo.hackclub.com/projects/5946)  
+> **Design Time Investment:** ~3hr  
+> **Source CAD File:** [💾 Autodesk Fusion Editor file]() 
+
+---
