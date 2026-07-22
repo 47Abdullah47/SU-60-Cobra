@@ -25,8 +25,8 @@ This 3d model is a small scale ~12cm long replica of the Soviet union's abandone
 <img width="1366" height="538" alt="COBRA (v3~recovered)" src="https://github.com/user-attachments/assets/efbc4fb4-fa61-47ee-8e8f-0e0a92225600" />
 
 ## Print Material
-This 3d model can be printed in all types of Filaments,
-<b>Recommended Filament:-</b>
+This 3d model can be printed in all types of Filaments, <br>
+<b>Recommended Filament:-</b> 
 - PLA
 
 ## Assembly-guide
