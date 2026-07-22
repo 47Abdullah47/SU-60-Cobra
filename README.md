@@ -28,7 +28,7 @@ This 3d model is a small scale ~12cm long replica of the Soviet union's abandone
 
  
 ## 3d-Printing 🖨️
-The Stl, Step, 3mf files are provided in <a href="">Print files</a> <br>
+The Stl, Step, 3mf files are provided in <a href="https://github.com/47Abdullah47/SU-60-Cobra/tree/main/Print%20Files">Print files</a> <br>
 And Also can be accessed here on <a href="https://www.printables.com/model/1787915-su-60-cobra-raven-2">Printables</a>
 This 3d model can be printed in all types of Filaments, <br>
 <b>Recommended Filament:-</b> 
